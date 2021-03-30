@@ -5,7 +5,7 @@ D01表示domain 1
 S01表示subsystem 1
 F01表示function 1
 
-这里我们初步定义Domian有7类
+这里我们初步定义Domian有7类，然后丰富excel版的场景库吧！
 D01 车身域
 D01S01 灯类
 D01S02 防盗/启停
